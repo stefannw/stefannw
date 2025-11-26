@@ -1,32 +1,9 @@
-# Hi, I'm stefannw 👋
+<h1 align="center">stefannw</h1>
 
-I'm a cybersecurity enthusiast, software developer, and CEO at **NSCD**, where I build secure, innovative tools that push the boundaries of digital safety and efficiency.
+<p align="center">
+  <strong>Entrepreneur, SWE & AI.</strong><br/>
+</p>
 
----
-
-## About Me
-
-- 💻 Full-stack developer & security researcher  
-- 🛡 Passionate about cybersecurity and privacy  
-- 🚀 Leading NSCD to create next-gen secure solutions  
-- 🌐 Always exploring new technologies and challenges  
-
----
-
-## Skills
-
-- **Languages:** Python, CSS & JS
-- **Domains:** Cybersecurity, Secure Software Development  
-- **Tools & Platforms:** NSCD projects, pentesting frameworks
-
----
-
-## Current Focus
-
-- Building advanced security tools for enterprises and individuals  
-- Expanding NSCD’s impact in the cybersecurity space  
-- Open-source contributions to improve digital safety  
-
----
-
-> "Security is not a product, but a process." 🔒
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=1000&color=FFFFFF&center=true&vCenter=true&width=480&lines=CEO+%40+Vyralis;CEO+%40+Orbin;CEO+%40+Vyralis" alt="Typing SVG" />
+</p>
